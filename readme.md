@@ -36,7 +36,7 @@ your_project/
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone [[[your-repository-url]](https://github.com/py-hariom/py-hariom)](https://github.com/tripoora/Voter-ID-Verify.git)
 cd your-project
 ```
 
