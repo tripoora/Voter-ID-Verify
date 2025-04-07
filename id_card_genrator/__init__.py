@@ -1,0 +1,2 @@
+from id_card_genrator.genrate_id_card import VoterIDCardGenerator
+from id_card_genrator.main import IDCardApp

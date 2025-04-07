@@ -1,0 +1,106 @@
+{
+  "UID0001": {
+    "voter_id": "VOT1234501",
+    "name": "Anita Sharma",
+    "gender": "Female",
+    "father_name": "Rajesh Sharma",
+    "aadhaar_number": "1001-2001-3001",
+    "address": "101, Saket Nagar, Indore"
+  },
+  "UID0002": {
+    "voter_id": "VOT1234502",
+    "name": "Rohit Verma",
+    "gender": "Male",
+    "father_name": "Suresh Verma",
+    "aadhaar_number": "1002-2002-3002",
+    "address": "12, Vijay Nagar, Indore"
+  },
+  "UID0003": {
+    "voter_id": "VOT1234503",
+    "name": "Priya Joshi",
+    "gender": "Female",
+    "father_name": "Manoj Joshi",
+    "aadhaar_number": "1003-2003-3003",
+    "address": "45, Annapurna Road, Indore"
+  },
+  "UID0004": {
+    "voter_id": "VOT1234504",
+    "name": "Amit Patel",
+    "gender": "Male",
+    "father_name": "Harish Patel",
+    "aadhaar_number": "1004-2004-3004",
+    "address": "23, Bhanwarkuan, Indore"
+  },
+  "UID0005": {
+    "voter_id": "VOT1234505",
+    "name": "Neha Kulkarni",
+    "gender": "Female",
+    "father_name": "Prakash Kulkarni",
+    "aadhaar_number": "1005-2005-3005",
+    "address": "78, Rajendra Nagar, Indore"
+  },
+  "UID0006": {
+    "voter_id": "VOT1234506",
+    "name": "Kalyani Dhake",
+    "gender": "Female",
+    "father_name": "Suresh Dhake",
+    "aadhaar_number": "1006-2006-3006",
+    "address": "257, Dwarkadhish Colony, Airport Road, Indore"
+  },
+  "UID0007": {
+    "voter_id": "VOT1234507",
+    "name": "Karina Nagesh",
+    "gender": "Female",
+    "father_name": "Nagesh Rao",
+    "aadhaar_number": "1007-2007-3007",
+    "address": "477, Kalani Nagar, Indore"
+  },
+  "UID0008": {
+    "voter_id": "VOT1234508",
+    "name": "Harshit Soni",
+    "gender": "Male",
+    "father_name": "Mahesh Soni",
+    "aadhaar_number": "1008-2008-3008",
+    "address": "Subhash Marg, Khargon"
+  },
+  "UID0009": {
+    "voter_id": "VOT1234509",
+    "name": "Palak Sable",
+    "gender": "Female",
+    "father_name": "Vinod Sable",
+    "aadhaar_number": "1009-2009-3009",
+    "address": "Kushwah Nagar Square, Indore"
+  },
+  "UID0010": {
+    "voter_id": "VOT1234510",
+    "name": "Priya Sharma",
+    "gender": "Female",
+    "father_name": "Rakesh Sharma",
+    "aadhaar_number": "1010-2010-3010",
+    "address": "Ganga Bagh Colony, Indore"
+  },
+  "UID0011": {
+    "voter_id": "VOT1234511",
+    "name": "Palak Sable",
+    "gender": "Female",
+    "father_name": "Vinod Sable",
+    "aadhaar_number": "1011-2011-3011",
+    "address": "Nand Bagh Colony, Indore"
+  },
+  "UID0012": {
+    "voter_id": "VOT1234512",
+    "name": "Pragati Sahu",
+    "gender": "Female",
+    "father_name": "Manoj Sahu",
+    "aadhaar_number": "1012-2012-3012",
+    "address": "Vijay Nagar, Indore"
+  },
+  "UID0013": {
+    "voter_id": "VOT1234513",
+    "name": "Sandeep Jain",
+    "gender": "Male",
+    "father_name": "Ramesh Jain",
+    "aadhaar_number": "1013-2013-3013",
+    "address": "Mumbai"
+  }
+}
